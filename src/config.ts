@@ -21,6 +21,30 @@ export const LOGO_IMAGE = {
 
 export const SOCIALS: SocialObjects = [
   {
+    name: "Instagram",
+    href: "https://github.com/satnaing/astro-paper",
+    linkTitle: `${SITE.title} on Instagram`,
+    active: true,
+  },
+  {
+    name: "Mail",
+    href: "mailto:yourmail@gmail.com",
+    linkTitle: `Send an email to ${SITE.title}`,
+    active: true,
+  },
+  {
+    name: "WhatsApp",
+    href: "https://github.com/satnaing/astro-paper",
+    linkTitle: `${SITE.title} on WhatsApp`,
+    active: false,
+  },
+  {
+    name: "YouTube",
+    href: "https://github.com/satnaing/astro-paper",
+    linkTitle: `${SITE.title} on YouTube`,
+    active: true,
+  },
+  {
     name: "Github",
     href: "https://github.com/satnaing/astro-paper",
     linkTitle: ` ${SITE.title} on Github`,
@@ -30,24 +54,12 @@ export const SOCIALS: SocialObjects = [
     name: "Facebook",
     href: "https://github.com/satnaing/astro-paper",
     linkTitle: `${SITE.title} on Facebook`,
-    active: true,
-  },
-  {
-    name: "Instagram",
-    href: "https://github.com/satnaing/astro-paper",
-    linkTitle: `${SITE.title} on Instagram`,
-    active: true,
+    active: false,
   },
   {
     name: "LinkedIn",
     href: "https://github.com/satnaing/astro-paper",
     linkTitle: `${SITE.title} on LinkedIn`,
-    active: true,
-  },
-  {
-    name: "Mail",
-    href: "mailto:yourmail@gmail.com",
-    linkTitle: `Send an email to ${SITE.title}`,
     active: false,
   },
   {
@@ -60,18 +72,6 @@ export const SOCIALS: SocialObjects = [
     name: "Twitch",
     href: "https://github.com/satnaing/astro-paper",
     linkTitle: `${SITE.title} on Twitch`,
-    active: false,
-  },
-  {
-    name: "YouTube",
-    href: "https://github.com/satnaing/astro-paper",
-    linkTitle: `${SITE.title} on YouTube`,
-    active: false,
-  },
-  {
-    name: "WhatsApp",
-    href: "https://github.com/satnaing/astro-paper",
-    linkTitle: `${SITE.title} on WhatsApp`,
     active: false,
   },
   {

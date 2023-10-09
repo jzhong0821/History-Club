@@ -72,6 +72,13 @@
   .prose a {
     @apply break-words hover:!text-skin-accent;
   }
+  .title {
+    font-size: 2rem;      /* Increasing the font size */
+    font-weight: bold;    /* Making the font bold */
+    color: #333;          /* Change to any desired color */
+    text-transform: uppercase; /* Make the text uppercase */
+  }
+  
   .prose thead th:first-child,
   tbody td:first-child,
   tfoot td:first-child {
