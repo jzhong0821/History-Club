@@ -28,7 +28,7 @@ export const SOCIALS: SocialObjects = [
   },
   {
     name: "Mail",
-    href: "mailto:yourmail@gmail.com",
+    href: "mailto:jzhong26@stevensonschool.org,nbaker26@stevensonschool.org?subject=Inquiry about the RLS History Blog",
     linkTitle: `Send an email to ${SITE.title}`,
     active: true,
   },
@@ -48,7 +48,7 @@ export const SOCIALS: SocialObjects = [
     name: "Github",
     href: "https://github.com/satnaing/astro-paper",
     linkTitle: ` ${SITE.title} on Github`,
-    active: true,
+    active: false,
   },
   {
     name: "Facebook",
