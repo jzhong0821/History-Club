@@ -36,7 +36,12 @@ const { props } = Astro;
 </main>
 
 <link href="https://fonts.googleapis.com/css2?family=Merriweather:wght@300;400;700&display=swap" rel="stylesheet">
-
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width" />
+  <link rel="icon" href="/public/assets/favicon.png" />
+  <meta name="generator" content={Astro.generator} />
+</head>
 <style>
   #main-content {
     @apply mx-auto w-full max-w-3xl px-4 pb-12;

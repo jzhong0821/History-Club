@@ -56,6 +56,12 @@ const ogUrl = new URL(
       {tags.map(tag => <Tag name={slugifyStr(tag)} />)}
     </ul>
   </main>
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width" />
+    <link rel="icon" href="/public/assets/favicon.png" />
+    <meta name="generator" content={Astro.generator} />
+  </head>
   <Footer />
 </Layout>
 
