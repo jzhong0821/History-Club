@@ -1,4 +1,5 @@
 import { SITE } from "@config";
+import type { CollectionEntry } from "astro:content";
 
 export default () => {
   return (
