@@ -13,13 +13,13 @@ This website keeps track of all the work published by RLS History Club Newspaper
   <img src="/assets/dev.svg" class="sm:w-1/2 mx-auto" alt="coding dev illustration">
 </div>
 
-## The Team
+## Meet The Team
 
-This sections is still to be written. 
+This sections is still to be written.
 
-## Subscriptions & Submissions 
+## Subscriptions & Submissions
 
-This sections is still to be written. 
+This sections is still to be written.
 
 If would like to subscribe via email, please fill out this [form](https://github.com/satnaing/astro-paper).  
 If would like to submit your work, please fill out this [form](mailto:contact@satnaing.dev).
