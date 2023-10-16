@@ -15,21 +15,11 @@ This website keeps track of all the work published by RLS History Club Newspaper
 
 ## The Team
 
-This theme is written in vanilla JavaScript (+ TypeScript for type checking) and a little bit of ReactJS for some interactions. TailwindCSS is used for styling; and Markdown is used for blog contents. This is a sentence to fill up some space, I will write more later.
+This sections is still to be written. 
 
-## Features
+## Subscriptions & Submissions 
 
-Here are certain features of this site.
-
-- fully responsive and accessible
-- SEO-friendly
-- light & dark mode
-- fuzzy search
-- super fast performance
-- draft posts
-- pagination
-- sitemap & rss feed
-- highly customizable
+This sections is still to be written. 
 
 If would like to subscribe via email, please fill out this [form](https://github.com/satnaing/astro-paper).  
 If would like to submit your work, please fill out this [form](mailto:contact@satnaing.dev).
