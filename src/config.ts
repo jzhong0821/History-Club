@@ -28,7 +28,7 @@ export const SOCIALS: SocialObjects = [
   },
   {
     name: "Mail",
-    href: "mailto:jzhong26@stevensonschool.org,nbaker26@stevensonschool.org?subject=Inquiry about the RLS History Blog",
+    href: "mailto:jzhong26@stevensonschool.org,nbaker26@stevensonschool.org?subject=Inquiry about The Pirate Journal",
     linkTitle: `Send an email to ${SITE.title}`,
     active: true,
   },
