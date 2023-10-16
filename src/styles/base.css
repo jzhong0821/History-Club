@@ -79,7 +79,10 @@
     color: #333;          /* Change to any desired color */
     text-transform: uppercase; /* Make the text uppercase */
   }
-  
+  .custofont {
+    font-family: 'Work Sans', sans-serif;
+    font-size: 17px; 
+  }
   .prose thead th:first-child,
   tbody td:first-child,
   tfoot td:first-child {

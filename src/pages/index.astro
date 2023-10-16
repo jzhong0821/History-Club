@@ -40,17 +40,26 @@ const socialCount = SOCIALS.filter(social => social.active).length;
         </svg>
       </a>
 
-      <p>
+      <p >
         Welcome to 
         <LinkButton
           className="hover:text-skin-accent underline underline-offset-4 decoration-dashed"
           href="/about"
         >
-          RLS History Club's
+          Pirate Journal
         </LinkButton>
-        Official Newspaper!
-       <br / >
-        We are excited to create a history-centered community in Stevenson School.
+        <span class="after-link-comma">,</span> 
+        Rls History Club's Official Newspaper!
+      </p>
+      <p>
+        Pirate Journal is a student-led publication showcasing 
+        blogs, critical essays, and historical analyses by our peers. 
+      </p>
+      <p>
+        Our publication emphasizes the symbiotic relationship between open expression and academic research. 
+        Pirate Journal strives to promote diversity by challenging and refining the essence of opinion sharing. 
+      </br>
+        In pursuit of our mission, we hope to foster an environment at Stevenson School to encourage the open exchange of ideas and historical discussions. 
       </p>
       <p>
         Read the 
@@ -58,7 +67,7 @@ const socialCount = SOCIALS.filter(social => social.active).length;
           className="hover:text-skin-accent underline underline-offset-4 decoration-dashed"
           href="/posts"
         >
-          Blog Posts
+          Published Posts
         </LinkButton> 
         or check
         <LinkButton
@@ -68,6 +77,7 @@ const socialCount = SOCIALS.filter(social => social.active).length;
           About
         </LinkButton> for more info.
       </p>
+
       {
         // only display if at least one social link is enabled
         socialCount > 0 && (

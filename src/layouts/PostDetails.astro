@@ -13,7 +13,7 @@ export interface Props {
 
 const { post } = Astro.props;
 
-const { title, author, description, ogImage, canonicalURL, pubDatetime, tags } =
+const { title, author, description, ogImage, canonicalURL, pubDatetime, tags, subtitle} =
   post.data;
 
 const { Content } = await post.render();
@@ -42,12 +42,15 @@ const ogUrl = new URL(
         ><path
           d="M13.293 6.293 7.586 12l5.707 5.707 1.414-1.414L10.414 12l4.293-4.293z"
         ></path>
+
       </svg><span>Go back</span>
     </button>
   </div>
   <main id="main-content">
     <h1 transition:name={slugifyStr(title)} class="post-title">{title}</h1>
     <Datetime datetime={pubDatetime} size="lg" className="my-2" />
+      <!-- Display the author's name -->
+      <p class="author-name">By {author}</p>
     <article id="article" role="article" class="prose mx-auto mt-8 max-w-3xl">
       <Content />
     </article>
@@ -102,7 +105,19 @@ const ogUrl = new URL(
   }
   article.prose {
     font-family: 'Work Sans', sans-serif;
-    font-size: 17px; 
+    font-size: 17px;
+    margin-bottom: 2rem; /* Adjust as per your needs */
+    margin-top: 2rem; /* Adjust as per your needs */
+  }
+  article.prose h4{
+    font-family: 'Work Sans', sans-serif;
+    font-size: 17px;
+    margin-bottom: 2rem; /* Adjust as per your needs */
+    margin-top: 2rem; /* Adjust as per your needs */
+  }
+  .author-name {
+    @apply pb-0;
+    margin-bottom: 1rem; /* Adjust as per your needs */
   }
 </style>
 
