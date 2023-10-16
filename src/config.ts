@@ -5,7 +5,7 @@ export const SITE: Site = {
   author: "Jack Zhong",
   desc: "The Pirate Journal is a student-led publications ran by Rls History Club",
   title: "The Pirate Journal - A student-led publication",
-  ogImage: "/public/og.png",
+  ogImage: "og.png",
   lightAndDarkMode: true,
   postPerPage: 3,
 };
