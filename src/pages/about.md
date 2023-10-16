@@ -3,23 +3,41 @@ layout: ../layouts/AboutLayout.astro
 title: "About"
 ---
 
-The RLS History Club Newspaper is a history-centered studentled publication led by the [RLS History Club](https://satnaing.dev/blog).
+The Pirate Journal is a student-led publication led by the [RLS History Club](#rls-history-club).
 
-Our newspaper features student work in blogs, critical essays, and history centered art projects. Our mission is to create a platform for students passionate in writing and sharing their opinion.
+We features student work such as commentaries, critical essays, and historical art projects. We will be constanly open for [submission](#subscriptions--submissions). </br>
+It is our mission to create an open platform for students at Stevenson School passionate in writing and sharing their opinions.
 
-This website keeps track of all the work published by RLS History Club Newspaper, with also email based subscription services and physical copies of the edited works.
+[RlsHistory.Club](/) keeps track of all published work from The Pirate Journal.
 
 <div>
   <img src="/assets/dev.svg" class="sm:w-1/2 mx-auto" alt="coding dev illustration">
 </div>
 
-## Meet The Team
+## RLS History Club
 
-This sections is still to be written.
+Founded in 2023 fall, the RLS History Club is led by a team of students passionate in historical and humanities studies.
+
+The RLS History Club was founded by Nick Baker & Jack Zhong and advised by Dr. Oster. In organizing movie screenings, speaker events, and helping students prepare for the National History Day Competition, the RLS History Club aims to create a centralized community for students passionate in writing and opinion sharing.
 
 ## Subscriptions & Submissions
 
-This sections is still to be written.
+The RLS History Club runs a monthly, email-based subscription service, meaning it is constantly open for subscriptions and submissions.
 
-If would like to subscribe via email, please fill out this [form](https://github.com/satnaing/astro-paper).  
-If would like to submit your work, please fill out this [form](mailto:contact@satnaing.dev).
+To **subscribe** to our service, simply fill out this [Google Form](/) that will require you to share with us your name and email.
+
+To **submit** a student work, please upload a file via this [Google Form](/). All work published by The Pirate Journal will undergo serveral rounds of revision before being published. The form will require you to share with us your name and email for us to reach out to you.
+
+To **join the editorial team**, please [contact us](#contact-us) directly via email. All members of the editorial team will need to be part of the RLS History Club.
+
+## Contact Us
+
+To contact us for club affairs, you can email
+[Nick Baker](mailto:jzhong26@stevensonschool.org,nbaker26@stevensonschool.org?subject=Inquiry%20about%20The%20Pirate%20Journal)
+and
+[Jack Zhong](mailto:jzhong26@stevensonschool.org,nbaker26@stevensonschool.org?subject=Inquiry%20about%20The%20Pirate%20Journal)
+directly via email.
+
+To report a bug or request new features for the website, please directly email Jack Zhong or simply
+create an issue
+via the [GitHub Repository](https://github.com/jzhong0821/History-Club).
