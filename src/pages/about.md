@@ -10,10 +10,6 @@ It is our mission to create an open platform for students at Stevenson School pa
 
 [RlsHistory.Club](/) keeps track of all published work from The Pirate Journal.
 
-<div>
-  <img src="/assets/dev.svg" class="sm:w-1/2 mx-auto" alt="coding dev illustration">
-</div>
-
 ## RLS History Club
 
 > Suaviter in modo, fortiter in re
@@ -35,6 +31,10 @@ To **subscribe** to our service, simply fill out this [Google Form](/) that will
 To **submit** a student work, please upload a file via this [Google Form](/). All work published by The Pirate Journal will undergo serveral rounds of revision before being published. The form will require you to share with us your name and email for us to reach out to you.
 
 To **join the editorial team**, please [Contact Us](#contact-us) directly via email. All members of the editorial team will need to be part of the RLS History Club.
+
+<div style="margin-top: 25px; margin-bottom: 5px;">
+  <img src="/assets/dev.svg" class="sm:w-1/2 mx-auto" alt="coding dev illustration">
+</div>
 
 ## Contact Us
 
