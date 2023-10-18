@@ -5,20 +5,19 @@ title: "About"
 
 The Pirate Journal is a student-led publication led by the [RLS History Club](#rls-history-club).
 
-We features student work such as commentaries, critical essays, and historical art projects. We will be constanly open for [submissions](#subscriptions--submissions). </br>
+Founded in 2023 Fall, we features student work such as commentaries, critical essays, and historical analysises.
+We run are constantly open for submissions.
 It is our mission to create an open platform for students at Stevenson School passionate in writing and sharing their opinions.
 
 [RlsHistory.Club](/) keeps track of all published work from The Pirate Journal.
 
 ## RLS History Club
 
-> Suaviter in modo, fortiter in re
+> Suaviter in modo, fortiter in re.
 
-Founded in 2023 fall, the RLS History Club is led by a team of students passionate in historical and humanities studies.
+Fall of 2023, the RLS History Club was founded by Nick Baker & Jack Zhong from [Stevenson School](https://stevensonschool.org/) and advised by Dr. Oster. In organizing movie screenings, speaker events, and helping students prepare for the National History Day Competition, the RLS History Club aims to create a centralized community for students passionate in writing and opinion sharing.
 
-The RLS History Club was founded by Nick Baker & Jack Zhong and advised by Dr. Oster. In organizing movie screenings, speaker events, and helping students prepare for the National History Day Competition, the RLS History Club aims to create a centralized community for students passionate in writing and opinion sharing.
-
-Currently, the club has over 40 active members, joining bi-cycle meetings for various activity plannings.
+Currently, the club has over 40 active members, helding bi-cycle meetings for discussions and various activity plannings.
 
 If you would like to join the RLS History Club, please [Contact Us](#contact-us) directly via email. We are always welcoming to all students in the Stevenson community with a passion for history.
 
