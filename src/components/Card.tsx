@@ -37,7 +37,7 @@ export default function Card({ href, frontmatter, secHeading = true }: Props) {
           style={{
             marginTop: "8px",
             marginBottom: "8px",
-            border: "2px solid #e5e5e5",
+            border: "1px solid #e5e5e5",
           }}
           className="w-600px h-50px mb-2 rounded object-cover"
         />
