@@ -57,7 +57,7 @@ Wow! this website can actually display text in the form of a program?!
 Wow! this website can actually display text in the form of a program?!
 ```
 
-![image](/public/assets/001.jpeg)
+![image](/public/assets/forrest-gump-quote.webp)
 
 ### Sample Frontmatter
 
