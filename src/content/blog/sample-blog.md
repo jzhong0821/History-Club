@@ -14,7 +14,6 @@ siteOG: /public/assets/001.jpeg
 description:
   Some rules & recommendations for creating or adding new posts using AstroPaper
   theme.
-subtitle: Hoc est subtitulum, subtitulum est titulus sub principali ut melius tradat ideam centralem tractatus. Hoc est subtitulum, subtitulum est titulus sub principali ut melius tradat ideam centralem tractatus.
 ---
 
 Hoc est subtitulum, subtitulum est titulus sub principali ut melius tradat ideam centralem tractatus. Hoc est subtitulum, subtitulum est titulus sub principali ut melius tradat ideam centralem tractatus.
