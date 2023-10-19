@@ -9,8 +9,9 @@ export interface Props {
 }
 
 export default function Card({ href, frontmatter, secHeading = true }: Props) {
-  const { title, pubDatetime, description } = frontmatter;
-
+  const { siteOG, title, pubDatetime, description } = frontmatter;
+  const imageUrl = typeof siteOG === "string" ? siteOG : siteOG?.src;
+  const altText = `Cover image for ${title}`;
   const headerProps = {
     style: { viewTransitionName: slugifyStr(title) },
     className: "text-lg font-medium decoration-dashed hover:underline",
@@ -29,6 +30,18 @@ export default function Card({ href, frontmatter, secHeading = true }: Props) {
         )}
       </a>
       <Datetime datetime={pubDatetime} />
+      {imageUrl && (
+        <img
+          src={imageUrl}
+          alt={altText}
+          style={{
+            marginTop: "8px",
+            marginBottom: "8px",
+            border: "2px solid #e5e5e5",
+          }}
+          className="w-600px h-50px mb-2 rounded object-cover"
+        />
+      )}
       <p>{description}</p>
     </li>
   );

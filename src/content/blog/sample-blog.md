@@ -9,14 +9,13 @@ tags:
   - docs
   - sample
   - will be deleted
-ogImage: SITE.ogImage
+ogImage: /public/og.png
+siteOG: /public/assets/001.jpeg
 description:
   Some rules & recommendations for creating or adding new posts using AstroPaper
   theme.
 subtitle: Hoc est subtitulum, subtitulum est titulus sub principali ut melius tradat ideam centralem tractatus. Hoc est subtitulum, subtitulum est titulus sub principali ut melius tradat ideam centralem tractatus.
 ---
-
-![image](/public/og.png)
 
 Hoc est subtitulum, subtitulum est titulus sub principali ut melius tradat ideam centralem tractatus. Hoc est subtitulum, subtitulum est titulus sub principali ut melius tradat ideam centralem tractatus.
 
@@ -57,6 +56,8 @@ Wow! this website can actually display text in the form of a program?!
 Wow! this website can actually display text in the form of a program?!
 Wow! this website can actually display text in the form of a program?!
 ```
+
+![image](/public/assets/001.jpeg)
 
 ### Sample Frontmatter
 
