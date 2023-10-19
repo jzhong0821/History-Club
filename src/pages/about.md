@@ -5,7 +5,7 @@ title: "About"
 
 The Pirate Journal is a student-led publication led by the [RLS History Club](#rls-history-club).
 
-Founded in 2023 Fall, we features student work such as commentaries, critical essays, and historical analysises.
+Founded in 2023 Fall, we features student work such as commentaries, critical essays, and historical analyses.
 We run are constantly open for submissions.
 It is our mission to create an open platform for students at Stevenson School passionate in writing and sharing their opinions.
 
