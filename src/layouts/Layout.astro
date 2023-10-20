@@ -14,11 +14,11 @@ export interface Props {
 }
 
 const {
-  title = "The Pirate Journal - A student-led publication",
+  title = "The Pirate Journal - A Student-led Publication",
   author = "Jack Zhong",
-  description = "The Pirate Journal is a student-led publications ran by Rls History Club",
+  description = "Welcome to The Pirate Journal, Rls History Club's Official Publication!",
   ogImage = "og.png",
-  canonicalURL = new URL(Astro.url.pathname, "https://rlshistory.club").href,
+  canonicalURL = new URL(Astro.url.pathname, "https://www.rlshistory.club").href,
 } = Astro.props;
 
 const socialImageURL = new URL(
@@ -32,6 +32,7 @@ const socialImageURL = new URL(
   <head>
     <!-- Search Engine Bar Thing -->
     <meta charset="UTF-8" />
+    <title>{"The Pirate Journal - A Student-Led Publication"}</title>
     <meta name="viewport" content="width=device-width" />
     <link rel="icon" href="/public/assets/favicon.png" />
     <link rel="icon" type="image/png" href="/assets/favicon.png" />
@@ -40,7 +41,6 @@ const socialImageURL = new URL(
     <meta name="icon" content="/public/assets/favicon.png" />
 
     <!-- General Meta Tags -->
-    <title>{"The Pirate Journal - A Student-Led Publication"}</title>
     <meta name="title" content={"The Pirate Journal - A Student-Led Publication"} />
     <meta name="description" content={description} />
     <meta name="author" content={author} />

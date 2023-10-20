@@ -3,8 +3,8 @@ import type { Site, SocialObjects } from "./types";
 export const SITE: Site = {
   website: "https://www.rlshistory.club/", // replace this with your deployed domain
   author: "Jack Zhong",
-  desc: "The Pirate Journal is a student-led publications ran by Rls History Club",
-  title: "The Pirate Journal - A student-led publication",
+  desc: "Welcome to The Pirate Journal, Rls History Club's Official Publication!",
+  title: "The Pirate Journal - A Student-led Publication",
   ogImage: "/public/og.png",
   lightAndDarkMode: true,
   postPerPage: 3,
@@ -22,7 +22,7 @@ export const LOGO_IMAGE = {
 export const SOCIALS: SocialObjects = [
   {
     name: "Instagram",
-    href: "https://github.com/satnaing/astro-paper",
+    href: "https://www.instagram.com/stevenson_school/?hl=en",
     linkTitle: `${SITE.title} on Instagram`,
     active: true,
   },
@@ -40,7 +40,7 @@ export const SOCIALS: SocialObjects = [
   },
   {
     name: "YouTube",
-    href: "https://github.com/satnaing/astro-paper",
+    href: "https://www.youtube.com/@stevensoncommunications4134",
     linkTitle: `${SITE.title} on YouTube`,
     active: true,
   },
