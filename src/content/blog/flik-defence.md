@@ -9,12 +9,12 @@ tags:
   - opinion
   - school life
   - flik
-ogImage: https://www.imghippo.com/images/1697775300.jpg
-siteOG: https://www.imghippo.com/images/1697775300.jpg
+ogImage: https://generations.krea.ai/images/448e670c-f738-42b1-b08e-832fbe7cfc19.webp
+siteOG: https://generations.krea.ai/images/448e670c-f738-42b1-b08e-832fbe7cfc19.webp
 description: The amount of criticism Flik's dining service has faced is unjustified, and thus I feel compelled to present the truth.
 ---
 
-<img src="https://www.imghippo.com/images/1697775300.jpg" alt="something">
+<img src="https://generations.krea.ai/images/448e670c-f738-42b1-b08e-832fbe7cfc19.webp" alt="something">
 
 The amount of criticism Flik's dining service has faced is unjustified. Upholding the high moral standards of a Stevenson student, I feel compelled to present the truth.
 
