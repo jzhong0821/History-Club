@@ -9,14 +9,14 @@ tags:
   - docs
   - sample
   - will be deleted
-ogImage: /public/og.png
-siteOG: /public/assets/001.jpeg
+ogImage: https://www.iamag.co/wp-content/uploads/2014/02/Syd-Mead-4.jpg
+siteOG: https://www.iamag.co/wp-content/uploads/2014/02/Syd-Mead-4.jpg
 description:
   Some rules & recommendations for creating or adding new posts using AstroPaper
   theme.
 ---
 
-![image](https://www.iamag.co/wp-content/uploads/2014/02/Syd-Mead-4.jpg)
+![image](/src/assets/images/sample-image.jpg)
 
 Hoc est subtitulum, subtitulum est titulus sub principali ut melius tradat ideam centralem tractatus. Hoc est subtitulum, subtitulum est titulus sub principali ut melius tradat ideam centralem tractatus.
 
