@@ -16,6 +16,8 @@ description:
   theme.
 ---
 
+![image](/src/assets/images/001.jpeg)
+
 Hoc est subtitulum, subtitulum est titulus sub principali ut melius tradat ideam centralem tractatus. Hoc est subtitulum, subtitulum est titulus sub principali ut melius tradat ideam centralem tractatus.
 
 ---
@@ -55,6 +57,8 @@ Wow! this website can actually display text in the form of a program?!
 Wow! this website can actually display text in the form of a program?!
 Wow! this website can actually display text in the form of a program?!
 ```
+
+![image](/src/assets/images/AstroPaper-v3.png)
 
 ### Sample Frontmatter
 
