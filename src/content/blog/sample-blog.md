@@ -16,7 +16,7 @@ description:
   theme.
 ---
 
-<img src="/public/assets/sample-image.png" alt="something">
+<img src="https://www.iamag.co/wp-content/uploads/2014/02/Syd-Mead-4.jpg" alt="something">
 
 Hoc est subtitulum, subtitulum est titulus sub principali ut melius tradat ideam centralem tractatus. Hoc est subtitulum, subtitulum est titulus sub principali ut melius tradat ideam centralem tractatus.
 
