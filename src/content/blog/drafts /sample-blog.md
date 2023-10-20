@@ -4,7 +4,7 @@ pubDatetime: 2023-10-16T05:55:00Z
 title: Sample Blog in Latin
 postSlug: sample-blog
 featured: false
-draft: false
+draft: true
 tags:
   - docs
   - sample
