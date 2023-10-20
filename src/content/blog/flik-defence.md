@@ -11,12 +11,12 @@ tags:
   - flik
 ogImage: https://www.imghippo.com/images/1697775300.jpg
 siteOG: https://www.imghippo.com/images/1697775300.jpg
-description: The disdain Flik's dining service has faced is unwarranted, and thus I feel compelled to present the truth to all.
+description: The amount of criticism Flik's dining service has faced is unjustified, and thus I feel compelled to present the truth.
 ---
 
 <img src="https://www.imghippo.com/images/1697775300.jpg" alt="something">
 
-The disdain Flik's dining service has faced is unwarranted. Upholding the high moral standards of a Stevenson student, I feel compelled to present the truth to all.
+The amount of criticism Flik's dining service has faced is unjustified. Upholding the high moral standards of a Stevenson student, I feel compelled to present the truth.
 
 ---
 
