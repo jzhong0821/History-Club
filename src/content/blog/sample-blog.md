@@ -3,7 +3,7 @@ author: Jack Zhong
 pubDatetime: 2023-10-16T05:55:00Z
 title: Sample Blog in Latin
 postSlug: sample-blog
-featured: true
+featured: false
 draft: false
 tags:
   - docs

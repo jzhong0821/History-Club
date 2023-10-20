@@ -36,9 +36,9 @@ export default function Card({ href, frontmatter, secHeading = true }: Props) {
             src={imageUrl}
             alt={altText}
             style={{
-              marginTop: "8px",
-              marginBottom: "8px",
-              border: "1px solid #e5e5e5",
+              marginTop: "15px",
+              marginBottom: "15px",
+              border: "2px solid #e5e5e5",
             }}
             className="w-600px h-50px mb-2 rounded object-cover"
           />
