@@ -16,7 +16,7 @@ description:
   theme.
 ---
 
-![image name example](/public/forrest-gump-quote.webp)
+![image name example](/public/assets/sample-image.png)
 
 Hoc est subtitulum, subtitulum est titulus sub principali ut melius tradat ideam centralem tractatus. Hoc est subtitulum, subtitulum est titulus sub principali ut melius tradat ideam centralem tractatus.
 
