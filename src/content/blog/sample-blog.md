@@ -16,7 +16,7 @@ description:
   theme.
 ---
 
-![image](/src/assets/images/sample-image.jpg)
+![image](/public/assets/sample-image.jpg)
 
 Hoc est subtitulum, subtitulum est titulus sub principali ut melius tradat ideam centralem tractatus. Hoc est subtitulum, subtitulum est titulus sub principali ut melius tradat ideam centralem tractatus.
 
