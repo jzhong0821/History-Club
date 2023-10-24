@@ -24,7 +24,7 @@ The term socialism is probably one that you have heard before. Either from your 
 
 ## Introduction
 
-The long story is that it depends. The word Socialism first appeared in the French newspaper “Le Globe” in 1832, referring to a pro-worker, egalitarian societal and economic doctrine. This, however, was far from the first time in human history that Socialist principles had been advocated for. However in the 1852 manuscript “The Manifesto of the Communist Party,” Karl Marx and Freidrich Engels revolutionized the word, the effects of which have been resounding. Marx and Engels described socialism as the intermediary between a capitalist society which was bound to implode due its innate repression of the working classes, and utopian communism where all classes had been abolished altogether.
+The long story is that it depends. The word Socialism first appeared in the French newspaper “Le Globe” in 1832, referring to a pro-worker, egalitarian societal and economic doctrine. This, however, was far from the first time in human history that Socialist principles had been advocated for. However in the 1848 manuscript “The Manifesto of the Communist Party,” Karl Marx and Freidrich Engels revolutionized the word, the effects of which have been resounding. Marx and Engels described socialism as the intermediary between a capitalist society which was bound to implode due its innate repression of the working classes, and utopian communism where all classes had been abolished altogether.
 
 ## An Etymological History
 
@@ -38,4 +38,4 @@ Those “Socialist” states are quite far from Socialism. In actuality, they al
 
 It is important to know that the US politically has historically always been slightly right of center, making it difficult to pass any social welfare programs that would be commonplace in Democratic Socialist countries, being seen instead as anti-capitalistic. Conservatives in the US oftentimes seem to use Socialism as a pejorative term to immediately taint liberal ideas and proposals, namely any form of economic interventionism.
 
-And it works: many in the US, even you, might see “Socialism” and feel immediately repulsed. But in actuality, the term in and of itself does not have a clear definition, instead it comprises any number of degrees of left wing policy. Just as it would be both unfair but also highly confounding for a specific word to encompass both New Labor Conservatism and Nazism, and all of the in-between, the word Socialism has no business being so broad.
+And it works: many in the US, even you, might see “Socialism” and feel immediately repulsed. But in actuality, the term in and of itself does not have a clear definition, instead it comprises any number of degrees of left wing policy. Just as it would be both unfair but also highly confounding for a specific word to encompass both New Labor Conservatism and Fascism, and all of the in-between, the word Socialism has no business being so broad.
