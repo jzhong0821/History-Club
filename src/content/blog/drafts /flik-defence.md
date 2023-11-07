@@ -4,7 +4,7 @@ pubDatetime: 2023-10-20T04:12:00Z
 title: In Defence of Flik Dining Services
 postSlug: flik-defence
 featured: true
-draft: false
+draft: true
 tags:
   - opinion
   - school life
