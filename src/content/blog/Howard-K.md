@@ -1,5 +1,5 @@
 ---
-author: Howard Chan
+author: Howard Chen
 pubDatetime: 2024-1-8T20:35:00Z
 title: The Ancient Rus Kingdom,  Kievan Rus’
 postSlug: Kievan-Rus
