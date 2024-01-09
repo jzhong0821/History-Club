@@ -2,7 +2,7 @@
 author: Saghyna Ibraev
 pubDatetime: 2024-1-8T20:30:00Z
 title: A Brief Overview of the Space Race
-postSlug: Energy-Engineer
+postSlug: space-race
 featured: true
 draft: false
 tags:
