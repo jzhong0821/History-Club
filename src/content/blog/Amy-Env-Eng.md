@@ -11,16 +11,20 @@ tags:
   - society
 ogImage: https://www.imghippo.com/images/1704776969.jpg
 siteOG: https://www.imghippo.com/images/1704776969.jpg
-description: In this essay, I will analyze the various aspects of a career in renewable energy engineering. 
+description: In this essay, I will analyze the various aspects of a career in renewable energy engineering.
 ---
 
 <img src="https://www.imghippo.com/images/1704776969.jpg" alt="something">
 
-In our pursuit of a sustainable future, renewable energy engineering stands out as a vital and promising solution. This field is increasingly important across various industries, particularly as we face escalating environmental challenges like global warming, ocean acidification, and biodiversity loss. In this essay, I will analyze the various aspects of a career in renewable energy engineering, exploring the required skills, educational background, responsibilities, challenges, rewards, and future prospects associated with this dynamic field. 
+In this essay, I will analyze the various aspects of a career in renewable energy engineering, exploring the required skills, educational background, responsibilities, challenges, rewards, and future prospects associated with this dynamic field.
 
 ---
 
 ## Table of contents
+
+## Intro
+
+In our pursuit of a sustainable future, renewable energy engineering stands out as a vital and promising solution. This field is increasingly important across various industries, particularly as we face escalating environmental challenges like global warming, ocean acidification, and biodiversity loss. In this essay, I will analyze the various aspects of a career in renewable energy engineering, exploring the required skills, educational background, responsibilities, challenges, rewards, and future prospects associated with this dynamic field.
 
 ## Skills Required To Become a Renewable Energy Engineer
 
@@ -32,9 +36,9 @@ Proficiency in IT skills is also invaluable, as it involves leveraging advanced 
 
 A strong education plays a pivotal role in almost every engineering field. In the case of renewable engineering, it means to obtain a degree in disciplines like mechanical engineering, electrical engineering, renewable engineering, or environmental science. These academic pursuits provide the foundational knowledge essential for pursuing this career path.
 
-To truly equip yourself for success in this field, consider furthering your education in specialized areas such as solar and wind power. These additional qualifications can significantly bolster your career prospects. 
+To truly equip yourself for success in this field, consider furthering your education in specialized areas such as solar and wind power. These additional qualifications can significantly bolster your career prospects.
 
-## Responsibilities of Renewable Energy Engineers 
+## Responsibilities of Renewable Energy Engineers
 
 Renewable energy engineers shoulder a significant array of responsibilities in their projects. Firstly, they must assess the potential energy yield from the sun and other renewable sources, determining the feasibility and profitability of a project. This involves conducting thorough site evaluations to ascertain suitability and financial viability. Additionally, these engineers are tasked with designing systems for optimal efficiency, ensuring seamless integration with existing infrastructure. Their role extends to overseeing the construction and installation phases, while also ensuring compliance with relevant rules and regulations. Moreover, renewable energy engineers are responsible for performance monitoring, regular maintenance, and troubleshooting to guarantee uninterrupted operation. This comprehensive role underscores the critical impact of their work in the field of renewable energy.
 
