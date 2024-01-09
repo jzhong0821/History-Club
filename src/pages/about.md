@@ -25,9 +25,9 @@ If you would like to join the RLS History Club, please [Contact Us](#contact-us)
 
 The Pirate Journal runs a monthly, email-based subscription service, meaning it is constantly open for subscriptions and submissions.
 
-To **subscribe** to our service, simply fill out this [Google Form](/) that will require you to share with us your name and email.
+To **subscribe** to our service, simply [send us an email](#contact-us) titled "Subscribe" with your preferred email.
 
-To **submit** a student work, please upload a file via this [Google Form](/). All work published by The Pirate Journal will undergo serveral rounds of revision before being published. The form will require you to share with us your name and email for us to reach out to you.
+To **submit** a student work, please upload a file via this [Google Form](https://docs.google.com/forms/d/e/1FAIpQLSdmYHDiPi-xZImHIO87Igf1OuIyKsrCfVFM3hN5exIPpz2_Bg/viewform). All work published by The Pirate Journal will undergo serveral rounds of review and revision before being published. The form will require you to share with us your name and email for us to reach out to you.
 
 To **join the editorial team**, please [Contact Us](#contact-us) directly via email. All members of the editorial team will need to be part of the RLS History Club.
 

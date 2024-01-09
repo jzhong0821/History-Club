@@ -6,7 +6,7 @@ postSlug: socialism-word
 featured: false
 draft: false
 tags:
-  - historical analysis
+  - _historical analysis
   - etymology
   - socialism
 ogImage: https://www.artnews.com/wp-content/uploads/2020/09/fangor-web.jpg

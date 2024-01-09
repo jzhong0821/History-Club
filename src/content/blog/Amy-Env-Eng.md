@@ -1,12 +1,12 @@
 ---
-author: Any You
+author: Amy You
 pubDatetime: 2024-1-8T20:30:00Z
 title: What Becoming Renewable Energy Engineer Means
 postSlug: Energy-Engineer
 featured: true
 draft: false
 tags:
-  - information
+  - _information
   - jobs
   - society
 ogImage: https://www.imghippo.com/images/1704776969.jpg
