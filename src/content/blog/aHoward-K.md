@@ -1,7 +1,7 @@
 ---
 author: Howard Chan
 pubDatetime: 2024-1-8T20:30:00Z
-title: The Ancient Rus Kingdom,  Kievan Rus’
+title: Witnessing Kievan Rus', The Ancient Rus Kingdom
 postSlug: Kievan-Rus
 featured: true
 draft: false
