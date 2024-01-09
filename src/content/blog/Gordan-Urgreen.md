@@ -6,7 +6,7 @@ postSlug: Urban-Green
 featured: true
 draft: false
 tags:
-  - _information
+  - _opion
   - urban life
   - social infrastructure
 ogImage: https://www.imghippo.com/images/1704778472.avif
