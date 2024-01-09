@@ -9,7 +9,7 @@ export interface Props {
 }
 
 export default function Card({ href, frontmatter, secHeading = true }: Props) {
-  const { siteOG, title, pubDatetime, description } = frontmatter;
+  const { siteOG, title, pubDatetime, description, author } = frontmatter;
   const imageUrl = typeof siteOG === "string" ? siteOG : siteOG?.src;
   const altText = `Cover image for ${title}`;
   const headerProps = {
@@ -29,7 +29,22 @@ export default function Card({ href, frontmatter, secHeading = true }: Props) {
           <h3 {...headerProps}>{title}</h3>
         )}
       </a>
-      <Datetime datetime={pubDatetime} />
+      <div className="flex items-center justify-start space-x-2">
+        <Datetime datetime={pubDatetime} />
+        <span
+          style={{ color: "rgb(82, 82, 82)", fontStyle: "italic" }}
+          className="text-sm font-normal"
+        >
+          |
+        </span>
+        <span
+          style={{ color: "rgb(82, 82, 82)", fontStyle: "italic" }}
+          className="text-sm font-normal"
+        >
+          {" "}
+          By {author}
+        </span>
+      </div>
       {imageUrl && (
         <a href={href}>
           <img

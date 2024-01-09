@@ -11,12 +11,12 @@ tags:
   - social infrastructure
 ogImage: https://www.imghippo.com/images/1704778472.avif
 siteOG: https://www.imghippo.com/images/1704778472.avif
-description: In this essay, I will analyze the various aspects of a career in renewable energy engineering.
+description: Urban green spaces offer a break from the chaos in bustling cities.
 ---
 
 <img src="https://www.imghippo.com/images/1704778472.avif" alt="something">
 
-In this essay, I will analyze the various aspects of a career in renewable energy engineering, exploring the required skills, educational background, responsibilities, challenges, rewards, and future prospects associated with this dynamic field.
+Urban green spaces offer a break from the chaos in bustling cities.
 
 ---
 
