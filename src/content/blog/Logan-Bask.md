@@ -1,7 +1,7 @@
 ---
-author: Gordan Lee
+author: Logan Law
 pubDatetime: 2024-1-8T20:30:00Z
-title: The Impact of Urban Green Spaces on Mental Health
+title: The New York Knicks
 postSlug: Knicks
 featured: true
 draft: false
