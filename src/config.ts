@@ -7,7 +7,7 @@ export const SITE: Site = {
   title: "The Pirate Journal - A Student-led Publication",
   ogImage: "/public/og.png",
   lightAndDarkMode: true,
-  postPerPage: 3,
+  postPerPage: 10,
 };
 
 export const LOCALE = ["en-EN"]; // set to [] to use the environment default
