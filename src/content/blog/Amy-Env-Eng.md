@@ -9,12 +9,12 @@ tags:
   - information
   - jobs
   - society
-ogImage: https://www.imghippo.com/i/1704775640.jpg
-siteOG: https://www.imghippo.com/i/1704775640.jpg
+ogImage: https://www.imghippo.com/images/1704776969.jpg
+siteOG: https://www.imghippo.com/images/1704776969.jpg
 description: In this essay, I will analyze the various aspects of a career in renewable energy engineering. 
 ---
 
-<img src="https://www.imghippo.com/i/1704775640.jpg" alt="something">
+<img src="https://www.imghippo.com/images/1704776969.jpg" alt="something">
 
 In our pursuit of a sustainable future, renewable energy engineering stands out as a vital and promising solution. This field is increasingly important across various industries, particularly as we face escalating environmental challenges like global warming, ocean acidification, and biodiversity loss. In this essay, I will analyze the various aspects of a career in renewable energy engineering, exploring the required skills, educational background, responsibilities, challenges, rewards, and future prospects associated with this dynamic field. 
 
