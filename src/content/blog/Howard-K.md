@@ -8,12 +8,12 @@ draft: false
 tags:
   - _historical analysis
   - kievan rus'
-ogImage: https://www.imghippo.com/images/1704780424.jpg
-siteOG: https://www.imghippo.com/images/1704780424.jpg
+ogImage: https://www.imghippo.com/images/1704821909.png
+siteOG: https://www.imghippo.com/images/1704821909.png
 description: Kievan Rus’ (or Kyivan Rus’) was one of the most fierce European powers in the Middle Ages.
 ---
 
-<img src="https://www.imghippo.com/images/1704780424.jpg" alt="something">
+<img src="https://www.imghippo.com/images/1704821909.png" alt="something">
 
 The Kievan Rus’ was one of the most fierce European powers in the Middle Ages.
 
@@ -25,7 +25,7 @@ The Kievan Rus’ was one of the most fierce European powers in the Middle Ages.
 
 Kievan Rus’ (or Kyivan Rus’) was one of the most fierce European powers in the Middle Ages. It was composed of a good number of Slavic tribes in areas of modern-day Belarus, Ukraine, and Russia. This nation went through rapid development and established itself as a major power. Unfortunately, it was one of the only European countries invaded by the Mongols, leading to its eventual collapse.
 
-<img src="https://www.imghippo.com/images/1704781269.png" alt="something">
+<img src="https://www.imghippo.com/images/1704822118.webp" alt="something">
 
 > The Trident, Kievan Rus’ symbol
 
