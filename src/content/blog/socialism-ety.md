@@ -3,7 +3,7 @@ author: Nick Baker
 pubDatetime: 2023-10-20T09:30:00-07:00
 title: "Socialism: But What Exactly Does It Mean?"
 postSlug: socialism-word
-featured: true
+featured: false
 draft: false
 tags:
   - historical analysis
