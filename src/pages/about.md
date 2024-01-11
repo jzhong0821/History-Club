@@ -3,11 +3,11 @@ layout: ../layouts/AboutLayout.astro
 title: "About"
 ---
 
-The Pirate Journal is a student-led publication led by the [RLS History Club](#rls-history-club).
+The Pirate Journal is a student-led publication run by the [RLS History Club](#rls-history-club).
 
 Founded in 2023 Fall, we features student work such as commentaries, critical essays, and historical analyses.
-We run are constantly open for submissions.
-It is our mission to create an open platform for students at Stevenson School passionate in writing and sharing their opinions.
+We are constantly open for submissions.
+It is our mission to create an open platform for students at Stevenson School passionate in writing to share their opinions.
 
 [RlsHistory.Club](/) keeps track of all published work from The Pirate Journal.
 
@@ -19,7 +19,7 @@ Fall of 2023, the RLS History Club was founded by Nick Baker & Jack Zhong from [
 
 Currently, the club has over 40 active members, helding bi-cycle meetings for discussions and various activity plannings.
 
-If you would like to join the RLS History Club, please [Contact Us](#contact-us) directly via email. We are always welcoming to all students in the Stevenson community with a passion for history.
+If you would like to join the RLS History Club, please [Contact Us](#contact-us) directly via email. We are always welcoming to any students in the Stevenson community with a passion for history.
 
 ## Subscriptions & Submissions
 
