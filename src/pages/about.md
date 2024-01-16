@@ -17,7 +17,7 @@ It is our mission to create an open platform for students at Stevenson School pa
 
 Fall of 2023, the RLS History Club was founded by Nick Baker & Jack Zhong from [Stevenson School](https://stevensonschool.org/) and advised by Dr. Oster. In organizing movie screenings, speaker events, and helping students prepare for the National History Day Competition, the RLS History Club aims to create a centralized community for students passionate in writing and opinion sharing.
 
-Currently, the club has over 40 active members, helding bi-cycle meetings for discussions and various activity plannings.
+Currently, the club has over 40 active members, helding meetings every 2 cycles for discussions and various activity plannings.
 
 If you would like to join the RLS History Club, please [Contact Us](#contact-us) directly via email. We are always welcoming to any students in the Stevenson community with a passion for history.
 
