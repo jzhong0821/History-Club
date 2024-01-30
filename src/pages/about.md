@@ -5,7 +5,7 @@ title: "About"
 
 The Pirate Journal is a student-led publication run by the [RLS History Club](#rls-history-club).
 
-Featuring nonfiction essays by students from [Stevenson School](https://stevensonschool.org/), we are constantly open for submissions. It is our mission to create an open platform for students at Stevenson passionate in writing to share their opinions.
+Featuring nonfiction essays by students, we are constantly open for [submissions](#subscriptions--submissions). It is our mission to create an open platform for students at Stevenson passionate in writing to share their opinions.
 
 [RlsHistory.Club](/) keeps track of all published work from The Pirate Journal.
 
