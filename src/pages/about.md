@@ -5,9 +5,7 @@ title: "About"
 
 The Pirate Journal is a student-led publication run by the [RLS History Club](#rls-history-club).
 
-Founded in 2023 Fall, we features student work such as commentaries, critical essays, and historical analyses.
-We are constantly open for submissions.
-It is our mission to create an open platform for students at Stevenson School passionate in writing to share their opinions.
+Featuring nonfiction essays by students from [Stevenson School](https://stevensonschool.org/), we are constantly open for submissions. It is our mission to create an open platform for students at Stevenson passionate in writing to share their opinions.
 
 [RlsHistory.Club](/) keeps track of all published work from The Pirate Journal.
 
@@ -15,7 +13,7 @@ It is our mission to create an open platform for students at Stevenson School pa
 
 > Suaviter in modo, fortiter in re.
 
-Fall of 2023, the RLS History Club was founded by Nick Baker & Jack Zhong from [Stevenson School](https://stevensonschool.org/) and advised by Dr. Oster. In organizing movie screenings, speaker events, and helping students prepare for the National History Day Competition, the RLS History Club aims to create a centralized community for students passionate in writing and opinion sharing.
+In the Fall of 2023, the RLS History Club was founded by Nick Baker & Jack Zhong from Stevenson with help from Dr. Oster. In organizing movie screenings & speaker events, helping students prepare for the [National History Day Competition](https://nhd.org/en/), and running The Pirate Journal, the History Club aims to create a centralized community for students passionate in writing and opinion sharing.
 
 Currently, the club has over 40 active members, helding meetings every 2 cycles for discussions and various activity plannings.
 
@@ -23,11 +21,11 @@ If you would like to join the RLS History Club, please [Contact Us](#contact-us)
 
 ## Subscriptions & Submissions
 
-The Pirate Journal runs a monthly, email-based subscription service, meaning it is constantly open for subscriptions and submissions.
+The Pirate Journal runs an email-based subscription service for those interested in receiving newly featured articles directly in their inbox.
 
-To **subscribe** to our service, simply [send us an email](#contact-us) titled "Subscribe" with your preferred email.
+To **subscribe** to our service, simply type in your preferred email to [this Google Form](https://forms.gle/TZKgvMcgPKqNezZcA).
 
-To **submit** a student work, please upload a file via this [Google Form](https://docs.google.com/forms/d/e/1FAIpQLSdmYHDiPi-xZImHIO87Igf1OuIyKsrCfVFM3hN5exIPpz2_Bg/viewform). All work published by The Pirate Journal will undergo serveral rounds of review and revision before being published. The form will require you to share with us your name and email for us to reach out to you.
+To **submit** a student work, please upload your file via this [Google Form](https://docs.google.com/forms/d/e/1FAIpQLSdmYHDiPi-xZImHIO87Igf1OuIyKsrCfVFM3hN5exIPpz2_Bg/viewform) to submit for review. All work published by The Pirate Journal will undergo serveral rounds of review and revision before being published. The form will require you to share with us your name and email for us to reach out to you.
 
 To **join the editorial team**, please [Contact Us](#contact-us) directly via email. All members of the editorial team will need to be part of the RLS History Club.
 
