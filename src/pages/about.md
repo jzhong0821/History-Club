@@ -3,21 +3,21 @@ layout: ../layouts/AboutLayout.astro
 title: "About"
 ---
 
-The Pirate Journal is a student-led publication run by the [RLS History Club](#rls-history-club).
+The Pirate Journal is a student-led publication founded and operated by the [RLS History Club](#rls-history-club).
 
-Featuring nonfiction essays by students, we are constantly open for [submissions](#subscriptions--submissions). It is our mission to create an open platform for students at Stevenson passionate in writing to share their opinions.
+We feature student-written nonfiction essays, and are constantly open for [submissions](#subscriptions--submissions)! It’s our mission to create an open platform for students at Stevenson with a love for writing to share their opinions.
 
-[RlsHistory.Club](/) keeps track of all published work from The Pirate Journal.
+All essays published to The Pirate Journal will be displayed on this website, [RlsHistory.Club](/).
 
 ## RLS History Club
 
 > Suaviter in modo, fortiter in re.
 
-In the Fall of 2023, the RLS History Club was founded by Nick Baker & Jack Zhong from Stevenson with help from Dr. Oster. In organizing movie screenings & speaker events, helping students prepare for the [National History Day Competition](https://nhd.org/en/), and running The Pirate Journal, the History Club aims to create a centralized community for students passionate in writing and opinion sharing.
+In the Fall of 2023, the RLS History Club was founded by Nick Baker & Jack Zhong with help from Dr. Oster. In organizing movie screenings, speaker events, helping students prepare for the [National History Day Competition](https://nhd.org/en/), and running The Pirate Journal, the History Club aims to create a centralized community for students passionate in writing, discussing, and learning about historical and intellectual topics.
 
-Currently, the club has over 40 active members, helding meetings every 2 cycles for discussions and various activity plannings.
+Currently, the club has over 40 active members. We hold meetings every 2 cycles for our various aforementioned activities.
 
-If you would like to join the RLS History Club, please [Contact Us](#contact-us) directly via email. We are always welcoming to any students in the Stevenson community with a passion for history.
+If you would like to join the History Club, please [Contact Us](#contact-us) directly via email. We would love any member of Stevenson’s student body to join us!
 
 ## Subscriptions & Submissions
 
