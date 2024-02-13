@@ -3,7 +3,7 @@ author: Logan Law
 pubDatetime: 2024-1-8T20:20:00Z
 title: The New York Knicks
 postSlug: Knicks
-featured: true
+featured: false
 draft: false
 tags:
   - _historical analysis

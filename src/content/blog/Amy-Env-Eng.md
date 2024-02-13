@@ -3,7 +3,7 @@ author: Amy You
 pubDatetime: 2024-1-8T20:10:00Z
 title: What Becoming Renewable Energy Engineer Means
 postSlug: Energy-Engineer
-featured: true
+featured: false
 draft: false
 tags:
   - _information

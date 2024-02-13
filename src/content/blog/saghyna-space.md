@@ -3,7 +3,7 @@ author: Saghyna Ibraev
 pubDatetime: 2024-1-8T20:30:00Z
 title: A Brief Overview of the Space Race
 postSlug: space-race
-featured: true
+featured: false
 draft: false
 tags:
   - _historical analysis

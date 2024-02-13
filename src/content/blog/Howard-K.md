@@ -3,7 +3,7 @@ author: Howard Chen
 pubDatetime: 2024-1-8T20:35:00Z
 title: The Ancient Rus Kingdom,  Kievan Rus’
 postSlug: Kievan-Rus
-featured: true
+featured: false
 draft: false
 tags:
   - _historical analysis
