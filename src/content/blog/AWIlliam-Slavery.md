@@ -11,7 +11,7 @@ tags:
   - us history
 ogImage: https://i.imghippo.com/files/K3Xjo1707839533.jpg
 siteOG: https://i.imghippo.com/files/K3Xjo1707839533.jpg
-description: Slavery is an incredibly complex and damaging issue with effects that linger even today
+description: Slavery is an incredibly complex and damaging issue with effects that linger even today.
 ---
 
 <img src="https://i.imghippo.com/files/K3Xjo1707839533.jpg" alt="something">
