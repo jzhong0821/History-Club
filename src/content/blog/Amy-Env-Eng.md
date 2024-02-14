@@ -6,9 +6,9 @@ postSlug: Energy-Engineer
 featured: false
 draft: false
 tags:
-  - _historical analysis
-  - history
-  - slavery
+  - _information
+  - jobs
+  - sustainable enerygy
 ogImage: https://www.imghippo.com/images/1704776969.jpg
 siteOG: https://www.imghippo.com/images/1704776969.jpg
 description: In this essay, I will analyze the various aspects of a career in renewable energy engineering.
