@@ -1,12 +1,12 @@
 ---
 author: Alex Peyton
 pubDatetime: 2024-2-13T07:20:00Z
-title: The Underrepresentation of Black and Asian-Americans in the Oscars
+title: The Underrepresentation of Minorities in the Oscars
 postSlug: oscars-underrep
 featured: true
 draft: false
 tags:
-  - _politics
+  - _opinion
   - racial-inequality
   - entertainment
 ogImage: https://i.imghippo.com/files/aL8nW1707839950.jpg
