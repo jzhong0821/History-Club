@@ -4,7 +4,7 @@ pubDatetime: 2024-2-13T08:30:00Z
 title: Slavery in the United States
 postSlug: Slavery
 featured: true
-draft: false
+draft: true
 tags:
   - _historical analysis
   - slavery
