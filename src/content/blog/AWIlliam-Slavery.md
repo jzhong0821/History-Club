@@ -16,7 +16,7 @@ description: Slavery is an incredibly complex and damaging issue with effects th
 
 <img src="https://i.imghippo.com/files/K3Xjo1707839533.jpg" alt="something">
 
-Slavery is a complex and damaging issue with effects that linger even to today.
+Slavery is a complex and damaging issue with effects that linger even today.
 
 ---
 
