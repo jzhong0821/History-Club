@@ -1,6 +1,6 @@
 ---
 author: Gordon Lee
-pubDatetime: 2024-4-6T011:47:00Z
+pubDatetime: 2024-4-6T11:47:00Z
 title: "Cognitive Science: What Is It and Its Philosophical Roots"
 postSlug: cognitive-philosophy
 featured: true
