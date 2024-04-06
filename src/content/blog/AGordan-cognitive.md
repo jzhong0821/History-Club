@@ -10,12 +10,12 @@ tags:
   - Philosophy
   - AI
   - Cognitive Science
-ogImage: https://i.imghippo.com/files/7XXvM1712430281.png
-siteOG: https://i.imghippo.com/files/7XXvM1712430281.png
+ogImage: https://i.imghippo.com/files/Y9pJ71712429688.jpg
+siteOG: https://i.imghippo.com/files/Y9pJ71712429688.jpg
 description: Philosophical Foundations of Cognitive Science.
 ---
 
-<img src="https://i.imghippo.com/files/7XXvM1712430281.png" alt="something">
+<img src="https://i.imghippo.com/files/Y9pJ71712429688.jpg" alt="something">
 
 Philosophical Foundations of Cognitive Science.
 
