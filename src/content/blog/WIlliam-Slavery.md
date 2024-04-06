@@ -3,7 +3,7 @@ author: William Sparano
 pubDatetime: 2024-2-13T08:30:00Z
 title: Post-Abolition Enslavement
 postSlug: Slavery
-featured: true
+featured: false
 draft: false
 tags:
   - _historical analysis

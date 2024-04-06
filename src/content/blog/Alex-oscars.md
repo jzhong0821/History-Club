@@ -3,7 +3,7 @@ author: Alex Peyton
 pubDatetime: 2024-2-13T07:20:00Z
 title: The Underrepresentation of Minorities in the Oscars
 postSlug: oscars-underrep
-featured: true
+featured: false
 draft: false
 tags:
   - _opinion

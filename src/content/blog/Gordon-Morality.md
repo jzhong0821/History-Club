@@ -3,7 +3,7 @@ author: Gordon Lee
 pubDatetime: 2024-2-13T10:30:00Z
 title: Morality, Nietzsche, and Kant
 postSlug: morality-and-ethics
-featured: true
+featured: false
 draft: false
 tags:
   - _information
