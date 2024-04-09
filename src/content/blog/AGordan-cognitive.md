@@ -6,7 +6,7 @@ postSlug: cognitive-philosophy
 featured: true
 draft: false
 tags:
-  - _facts
+  - _information
   - Philosophy
   - AI
   - Cognitive Science
