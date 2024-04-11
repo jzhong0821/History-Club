@@ -22,13 +22,13 @@ export const LOGO_IMAGE = {
 export const SOCIALS: SocialObjects = [
   {
     name: "Instagram",
-    href: "https://www.instagram.com/stevenson_school/?hl=en",
+    href: "https://www.instagram.com/rlshistoryclub/?hl=en",
     linkTitle: `${SITE.title} on Instagram`,
     active: true,
   },
   {
     name: "Mail",
-    href: "mailto:jzhong26@stevensonschool.org,nbaker26@stevensonschool.org?subject=Inquiry about The Pirate Journal",
+    href: "mailto:rlshistoryclub@gmail.com,jzhong26@stevensonschool.org,nbaker26@stevensonschool.org?subject=Inquiry about The Pirate Journal",
     linkTitle: `Send an email to ${SITE.title}`,
     active: true,
   },
@@ -40,7 +40,7 @@ export const SOCIALS: SocialObjects = [
   },
   {
     name: "YouTube",
-    href: "https://www.youtube.com/@stevensoncommunications4134",
+    href: "https://www.youtube.com/channel/UCKWsgWt9_pSYLjAuqoFyMIw",
     linkTitle: `${SITE.title} on YouTube`,
     active: true,
   },
