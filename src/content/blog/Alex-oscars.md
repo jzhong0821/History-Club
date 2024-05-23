@@ -9,12 +9,12 @@ tags:
   - _opinion
   - racial-inequality
   - entertainment
-ogImage: https://i.imghippo.com/files/jRj2L1716441057.avif
-siteOG: https://i.imghippo.com/files/jRj2L1716441057.avif
+ogImage: https://i.imghippo.com/files/Kx4Q91716441376.webp
+siteOG: https://i.imghippo.com/files/Kx4Q91716441376.webp
 description: The Oscars' general lack of representation of marginalized communities has been an issue for the entirety of its history.
 ---
 
-<img src="https://i.imghippo.com/files/jRj2L1716441057.avif" alt="something">
+<img src="https://i.imghippo.com/files/Kx4Q91716441376.webp" alt="something">
 
 Everything Everywhere All at Once, a 2023 feature film with a primarily Asian cast, won seven Oscar Academy Awards out of the eleven categories it was nominated for during the 95th annual Academy Awards ceremony. Despite this prominent representation of Asian-Americans, the Oscars' general lack of representation of marginalized communities has been an issue for the entirety of its history.
 
