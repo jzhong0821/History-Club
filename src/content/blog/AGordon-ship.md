@@ -30,7 +30,7 @@ The Ship of Theseus is a well-known thought experiment exploring what exactly de
 
 Here are some of the solutions to this paradox that people have argued:
 
-[1] An object goes where its parts go. Therefore, after replacing the parts of the ship, the end product is not the original ship.
+**1.** An object goes where its parts go. Therefore, after replacing the parts of the ship, the end product is not the original ship.
 
 [2] At some point within the 1,000 years of the ship’s planks being slowly replaced it loses its original identity. The problem with this argument is that it is not clear exactly which specific plank would cause this and for what reason specifically.
 
