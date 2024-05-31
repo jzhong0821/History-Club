@@ -6,9 +6,9 @@ postSlug: Slavery
 featured: false
 draft: false
 tags:
-  - _historical analysis
+  - _historical-analysis
   - slavery
-  - us history
+  - us-history
 ogImage: https://i.imghippo.com/files/K3Xjo1707839533.jpg
 siteOG: https://i.imghippo.com/files/K3Xjo1707839533.jpg
 description: Slavery is an incredibly complex and damaging issue with effects that linger even today.

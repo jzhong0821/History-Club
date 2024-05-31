@@ -6,7 +6,7 @@ postSlug: mongols
 featured: true
 draft: false
 tags:
-  - _historical analysis
+  - _historical-analysis
   - mongols
   - genghis khan
 ogImage: https://i.imghippo.com/files/4ljLN1717114574.png

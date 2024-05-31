@@ -6,7 +6,7 @@ postSlug: Knicks
 featured: false
 draft: true
 tags:
-  - _historical analysis
+  - _historical-analysis
   - sports
   - new york
 ogImage: https://www.imghippo.com/images/1704778865.webp

@@ -6,9 +6,9 @@ postSlug: space-race
 featured: false
 draft: true
 tags:
-  - _historical analysis
-  - space race
-  - cold war
+  - _historical-analysis
+  - space-race
+  - cold-war
 ogImage: https://i.imghippo.com/files/1704782467.jpg
 siteOG:https://i.imghippo.com/files/1704782467.jpg
 description: How the Space Race started, where it went, and what it taught us.

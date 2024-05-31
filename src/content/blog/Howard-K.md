@@ -7,7 +7,7 @@ featured: false
 draft: false
 tags:
   - _historical analysis
-  - kievan rus'
+  - kievan-rus'
 ogImage: https://www.imghippo.com/images/1704821909.png
 siteOG: https://www.imghippo.com/images/1704821909.png
 description: Kievan Rus’ (or Kyivan Rus’) was one of the most fierce European powers in the Middle Ages.

@@ -9,7 +9,7 @@ tags:
   - _information
   - Philosophy
   - AI
-  - Cognitive Science
+  - Cognitive-Science
 ogImage: https://i.imghippo.com/files/Y9pJ71712429688.jpg
 siteOG: https://i.imghippo.com/files/Y9pJ71712429688.jpg
 description: Philosophical Foundations of Cognitive Science.

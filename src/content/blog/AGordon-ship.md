@@ -8,6 +8,7 @@ draft: false
 tags:
   - _information
   - philosophy
+  - ship-of-theseus
 ogImage: https://i.imghippo.com/files/5kZlT1717114886.jpg
 siteOG: https://i.imghippo.com/files/5kZlT1717114886.jpg
 description: The Ship of Theseus is a well-known thought experiment exploring what exactly defines identity and change.

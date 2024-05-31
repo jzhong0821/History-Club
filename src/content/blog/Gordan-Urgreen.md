@@ -7,8 +7,8 @@ featured: false
 draft: false
 tags:
   - _opinion
-  - urban life
-  - social infrastructure
+  - urban-life
+  - social-infrastructure
 ogImage: https://www.imghippo.com/images/1704778472.avif
 siteOG: https://www.imghippo.com/images/1704778472.avif
 description: Urban green spaces offer a break from the chaos in bustling cities.
