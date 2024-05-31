@@ -16,7 +16,7 @@ description: At its peak, the Mongols formed an empire that was more than 16 tim
 
 <img src="https://i.imghippo.com/files/4ljLN1717114574.png" alt="something">
 
-> The Most Popular Flag for the Mongol Empire
+The Most Popular Flag for the Mongol Empire
 
 ---
 
@@ -43,7 +43,7 @@ The expansion of the Mongol Empire heavily depended on warfare. Under the leader
 https://i.imghippo.com/files/SKpZH1717114643.png
 https://i.imghippo.com/files/cVBfG1717114658.png
 
-> The Expansion of the Mongols
+The Expansion of the Mongols
 
 ### Western Conquest
 
@@ -51,13 +51,13 @@ Simultaneously, Genghis Khan intensified his grand conquest by focusing on the w
 
 https://i.imghippo.com/files/wZkhp1717114677.png
 
-> Battle of Vâliyân during the invasion of the Khwarazmian Empire, 1221 CE
+Battle of Vâliyân during the invasion of the Khwarazmian Empire, 1221 CE
 
 Genghis Khan died in 1227 CE without ever being defeated in battle, having established a strong foundation for the Empire and his successors. His successors, though not as skilled in military campaigns as he was, still significantly expanded the Empire. They conquered more Western countries and became the first non-Chinese rulers to gain complete control over all of China. The Empire reached its peak size approximately 60 years after Genghis Khan’s death.
 
 https://i.imghippo.com/files/nacwG1717114740.png
 
-> The map of the Mongol Empire under Kublai Khan, 1290 CE
+The map of the Mongol Empire under Kublai Khan, 1290 CE
 
 ## The Key to Their Success
 
@@ -67,6 +67,6 @@ The Mongols developed keen fighting instincts from their nomadic hunting lifesty
 
 https://i.imghippo.com/files/dNU7z1717114761.png
 
-> A depiction of Mongol soldiers at the time.
+A depiction of Mongol soldiers at the time.
 
 Not only that, the Mongols also employed a ruthless strategy: they would slaughter everyone in a city if the city decided to resist and fight with them. This is an especially brutal tactic and used to terrify the opponent implying that everyone, including the innocent peasants, would die if they decided to resist the invading Mongol army. Surely, the first few countries didn’t listen as they didn’t know how strong the Mongols were, but the results came out to be truly terrific. After the siege of each city (since they resisted), the Mongol army sacked the city and slaughtered everyone in the city, no matter their gender or age, every citizen with almost no exceptions was executed by the Mongol army. Using this tactic, although the Mongols did receive lots of surrender in their path of conquest, it caused a significant and horrifying death toll, the number of lives lost is so significant that the world population declined during the years when the empire was expanding. This showcased the brutality of the Mongol Empire with their strong army as their backbone.
