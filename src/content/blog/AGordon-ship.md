@@ -13,7 +13,7 @@ siteOG: https://i.imghippo.com/files/5kZlT1717114886.jpg
 description: The Ship of Theseus is a well-known thought experiment exploring what exactly defines identity and change.
 ---
 
-<img src="https://i.imghippo.com/files/FZgDS1717115434.avif" alt="something">
+<img src="https://i.imghippo.com/files/5kZlT1717114886.jpg" alt="something">
 
 ## The Ship of Theseus is a well-known thought experiment exploring what exactly defines identity and change.
 
