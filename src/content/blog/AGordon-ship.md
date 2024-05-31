@@ -15,8 +15,6 @@ description: The Ship of Theseus is a well-known thought experiment exploring wh
 
 <img src="https://i.imghippo.com/files/5kZlT1717114886.jpg" alt="something">
 
-The Ship of Theseus is a well-known thought experiment exploring what exactly defines identity and change.
-
 ## Table Of Contents
 
 ## What is the Ship of Theseus?
