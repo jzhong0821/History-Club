@@ -9,14 +9,12 @@ tags:
   - _information
   - philosophy
   - ship-of-theseus
-ogImage: https://i.imghippo.com/files/5kZlT1717114886.jpg
-siteOG: https://i.imghippo.com/files/5kZlT1717114886.jpg
+ogImage: https://i.ibb.co/2sfZz2w/5k-Zl-T1717114886.jpg
+siteOG: https://i.ibb.co/2sfZz2w/5k-Zl-T1717114886.jpg
 description: The Ship of Theseus is a well-known thought experiment exploring what exactly defines identity and change.
 ---
 
-<img src="https://i.imghippo.com/files/5kZlT1717114886.jpg" alt="something">
-
-The Ship of Theseus is a well-known thought experiment exploring what exactly defines identity and change.
+<img src="https://i.ibb.co/2sfZz2w/5k-Zl-T1717114886.jpg" alt="something">
 
 ---
 
@@ -32,9 +30,9 @@ Here are some of the solutions to this paradox that people have argued:
 
 **1.** An object goes where its parts go. Therefore, after replacing the parts of the ship, the end product is not the original ship.
 
-At some point within the 1,000 years of the ship’s planks being slowly replaced it loses its original identity. The problem with this argument is that it is not clear exactly which specific plank would cause this and for what reason specifically.
+**2.** At some point within the 1,000 years of the ship’s planks being slowly replaced it loses its original identity. The problem with this argument is that it is not clear exactly which specific plank would cause this and for what reason specifically.
 
-The identity of an object is inextricable from the unique composition of its parts. As soon as the first plank is removed, the ship is no longer its original self.
+**3.** The identity of an object is inextricable from the unique composition of its parts. As soon as the first plank is removed, the ship is no longer its original self.
 
 ## Hobbes’s Scenario
 
@@ -44,10 +42,13 @@ Thomas Hobbes, a 17th century English philosopher, imagined a scenario where a s
 
 Here are some of the solutions that people have proposed with regards to this new paradox:
 
-An object goes where its parts go. Therefore, the ship that the repairman builds with the parts from the original ship is the Ship of Theseus.
-The act of replacing each part from the original ship of Theseus maintains the ship’s identity. Through this lens, the ship that got its parts replaced is the Ship of Theseus.
-Both ships are the Ship of Theseus. This idea is based on the continuity of function argument which holds that an object remains an object if it looks and functions like a specific object. Thus, both ships, which look identical and have the same capabilities, are the Ship of Theseus.
-Neither ship is the Ship of Theseus. It can be argued that the ship that the repairman builds with the disassembled original ship lacks the historical significance of the original Ship of Theseus. Yet, it can be argued that the very act of replacing the parts of the original ship also takes away its historical significance. This viewpoint reflects the concept of hylomorphism, the belief that the soul belongs to the body and that they are inseparable.
+**1.** An object goes where its parts go. Therefore, the ship that the repairman builds with the parts from the original ship is the Ship of Theseus.
+
+**2.** The act of replacing each part from the original ship of Theseus maintains the ship’s identity. Through this lens, the ship that got its parts replaced is the Ship of Theseus.
+
+**3.** Both ships are the Ship of Theseus. This idea is based on the continuity of function argument which holds that an object remains an object if it looks and functions like a specific object. Thus, both ships, which look identical and have the same capabilities, are the Ship of Theseus.
+
+**4.** Neither ship is the Ship of Theseus. It can be argued that the ship that the repairman builds with the disassembled original ship lacks the historical significance of the original Ship of Theseus. Yet, it can be argued that the very act of replacing the parts of the original ship also takes away its historical significance. This viewpoint reflects the concept of hylomorphism, the belief that the soul belongs to the body and that they are inseparable.
 
 ## Conclusion
 

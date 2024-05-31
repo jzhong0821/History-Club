@@ -9,12 +9,12 @@ tags:
   - _historical-analysis
   - slavery
   - us-history
-ogImage: https://i.imghippo.com/files/K3Xjo1707839533.jpg
-siteOG: https://i.imghippo.com/files/K3Xjo1707839533.jpg
+ogImage: https://i.ibb.co/fQP8hcC/K3-Xjo1707839533.jpg
+siteOG: https://i.ibb.co/fQP8hcC/K3-Xjo1707839533.jpg
 description: Slavery is an incredibly complex and damaging issue with effects that linger even today.
 ---
 
-<img src="https://i.imghippo.com/files/K3Xjo1707839533.jpg" alt="something">
+<img src="https://i.ibb.co/fQP8hcC/K3-Xjo1707839533.jpg" alt="something">
 
 Slavery is a complex and damaging issue with effects that linger even today.
 

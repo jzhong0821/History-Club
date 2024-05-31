@@ -9,12 +9,12 @@ tags:
   - _information
   - philosphy
   - humanities
-ogImage: https://i.imghippo.com/files/r45Ua1707838803.jpg
-siteOG: https://i.imghippo.com/files/r45Ua1707838803.jpg
+ogImage: https://i.ibb.co/wz614z8/r45-Ua1707838803.jpg
+siteOG: https://i.ibb.co/wz614z8/r45-Ua1707838803.jpg
 description: The intricate tapestry of human ethics.
 ---
 
-<img src="https://i.imghippo.com/files/r45Ua1707838803.jpg" alt="something">
+<img src="https://i.ibb.co/wz614z8/r45-Ua1707838803.jpg" alt="something">
 
 This article explores the intricate tapestry of human ethics, specifically focusing on the concept of morality through the contrasting perspectives of Friedrich Nietzsche and Immanuel Kant. Nietzsche, a 19th-century German philosopher and cultural critic known for challenging traditional moral values, argued that morality is a subjective human construct. In contrast, Kant, an 18th-century German philosopher and one of the central Enlightenment thinkers, asserted that morality is rooted in universal, objective principles derived from reason and rationality.
 
