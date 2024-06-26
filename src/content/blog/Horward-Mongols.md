@@ -3,7 +3,7 @@ author: Howard Chen
 pubDatetime: 2024-5-30T07:20:00Z
 title: Rise of the Mongol Empire
 postSlug: mongols
-featured: true
+featured: false
 draft: false
 tags:
   - _historical-analysis
