@@ -3,7 +3,7 @@ author: Gordon Lee
 pubDatetime: 2024-5-30T07:55:00Z
 title: The Ship of Theseus
 postSlug: shipof-t
-featured: true
+featured: false
 draft: false
 tags:
   - _information
