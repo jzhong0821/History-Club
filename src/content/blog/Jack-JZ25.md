@@ -52,7 +52,7 @@ and Easter to:
 
 I pledge that going forward, I will advocate for positivity like proper Stevenson students do, by shifting the focus away from potentially harmful discussions that everybody agrees on, to topics that only the Student Life Office likes. Truly, **_my standards pale_** in comparison to the heavyweights at the Student Life Office.
 
-In conclusion: _I repent._
+To all my past supporters, the JZ25 campaign you’ll find when you arrive on campus next week will be different from the one you were familiar with. I will start every speech with a **disclaimer** withstanding no opposition from the Student Life Office, and every topic will have at least one trigger warning per conjunction. Depending on how that goes, I may replace the speech format with an **_interpretive dance._** After all, we would hate to be behind the times.
 
 _Inspired by:_ [The Review is Sorry](https://stanfordreview.org/the-review-is-sorry/)
 _-- The Stanford Review_
