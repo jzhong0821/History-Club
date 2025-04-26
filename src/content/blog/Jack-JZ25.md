@@ -1,7 +1,7 @@
 ---
 author: Jack Zhong
 pubDatetime: 2025-8-30T07:55:00Z
-title: JZ25 is Sorry
+title: "#JZ25 is Sorry"
 postSlug: jz25
 featured: true
 draft: false
@@ -9,9 +9,9 @@ tags:
   - _opinion
   - jz25
   - not-satire
-ogImage: https://www.ledr.com/colours/black.jpg
-siteOG: https://www.ledr.com/colours/black.jpg
-description: JZ25 is Sorry
+ogImage: https://i.ibb.co/8DvFbSHW/1.png
+siteOG: https://i.ibb.co/8DvFbSHW/1.png
+description: "#JZ25 is Sorry"
 ---
 
 <img src="https://media.tenor.com/G0OBtQPRa40AAAAM/cat-funny-looking-camera-cat-smurf.gif" alt="something" width="300">
@@ -20,7 +20,7 @@ description: JZ25 is Sorry
 
 ## Table Of Contents
 
-## JZ25 is Sorry
+## #JZ25 is Sorry
 
 Through the weeks, significant amounts of opposition has pushed back against the JZ25 campaign’s ideas. It is with a heavy heart that I admit today: **I was wrong.** After long and careful consideration I, Jack Zhong, leader of the JZ25 campaign, have decided, in the words of the heroic martyr Spencer Wang:
 
