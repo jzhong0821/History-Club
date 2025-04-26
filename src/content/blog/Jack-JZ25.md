@@ -14,7 +14,7 @@ siteOG: https://www.ledr.com/colours/black.jpg
 description: JZ25 is Sorry
 ---
 
-<img src="https://media.tenor.com/G0OBtQPRa40AAAAM/cat-funny-looking-camera-cat-smurf.gif" alt="something" width="350">
+<img src="https://media.tenor.com/G0OBtQPRa40AAAAM/cat-funny-looking-camera-cat-smurf.gif" alt="something" width="300">
 
 ---
 
