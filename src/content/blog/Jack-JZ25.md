@@ -45,3 +45,9 @@ and Easter to:
 I pledge that going forward, I will advocate for positivity like proper Stevenson students do, by shifting the focus away from potentially harmful discussions that everybody agrees on, to topics that only the Student Life Office likes. Truly, **_my standards pale_** in comparison to the heavyweights at the Student Life Office.
 
 In conclusion: _I repent._
+
+_Inspired by:_
+
+> The Review is Sorry
+
+_-- The Stanford Review_
