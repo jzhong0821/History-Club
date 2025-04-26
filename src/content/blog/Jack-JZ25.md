@@ -46,5 +46,5 @@ I pledge that going forward, I will advocate for positivity like proper Stevenso
 
 In conclusion: _I repent._
 
-_Inspired by:_ **_The Review is Sorry_**
+_Inspired by:_ [The Review is Sorry](https://stanfordreview.org/the-review-is-sorry/)
 _-- The Stanford Review_
