@@ -3,7 +3,7 @@ author: Jack Zhong
 pubDatetime: 2025-4-26T19:55:00Z
 title: "#JZ25 is Sorry"
 postSlug: jz25
-featured: true
+featured: false
 draft: false
 tags:
   - _opinion
