@@ -1,7 +1,7 @@
 ---
 author: Jack Zhong
 pubDatetime: 2025-4-26T19:55:00Z
-title: "#JZ25 is Sorry"
+title: "#JZ25 is Sorry lol"
 postSlug: jz25
 featured: false
 draft: false
