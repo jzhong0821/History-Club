@@ -28,12 +28,12 @@ Through the weeks, significant amounts of opposition has pushed back against the
 
 Over the past three weeks, controversial ideas that run contrary to my moral conscience and ethical interests have appeared in the posters, speeches, and memes of the JZ25 campaign. The thrills of contrarianism overran my basic duty as **a global citizen to be a good human.**
 
-The truth is, there is no way to undo the pain caused by 30 posters filled with problematic and contrarian ideas, such as:
+The truth is, there is no way to undo the pain caused by 30 posters filled with problematic, contrarian, and negative ideas, such as:
 
-**a red hashtag**  
+**A red hashtag**  
 <img src="https://i.ibb.co/rRxq64qS/image.png" alt="something" width="200">
 
-and **three diagonally aligned cats**  
+And **three diagonally aligned cats**  
 <img src="https://i.ibb.co/21cZYdb7/JZ25-4.png" alt="something" width="200">
 
 Our redemption will start today with this apology. The posters and memes and speeches I gave were wrong then and are wrong now. To all the folx hurt by my past work, I am working to secure funding for repairs. At the top of the list is Mr. Koshi, who has made clear to me that I am _un-presidential-like._
