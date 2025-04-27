@@ -30,7 +30,7 @@ Over the past three weeks, controversial ideas that run contrary to my moral con
 
 The truth is, there is no way to undo the pain caused by 30 posters filled with problematic, contrarian, and negative ideas, such as:
 
-**A red hashtag**  
+A **red hashtag**  
 <img src="https://i.ibb.co/rRxq64qS/image.png" alt="something" width="200">
 
 And **three diagonally aligned cats**  
