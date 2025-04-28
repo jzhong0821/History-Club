@@ -22,7 +22,7 @@ description: "Farewell, #JZ25"
 
 ## It’s morning at Stevenson.
 
-As the election season comes to an end at RLS, I am glad to say that, at the very least, **I have had a lot of fun.** The JZ25 campaign was by its nature a call for freedom of expression, that when it comes to normal campus affairs, students should be allowed to publicly discuss and disagree with school officials in accordance with the RLS core values. As we start to enter early summer, campus has been enveloped in warmth, and a new sense of conviction has begun to shine through from the student body.
+As we approach speech day, I am glad to say that, at the very least, **I have had a lot of fun.** The JZ25 campaign was by its nature a call for freedom of expression, that when it comes to normal campus affairs, students should be allowed to publicly discuss and disagree with school officials in accordance with the RLS core values. As we start to enter early summer, campus has been enveloped in warmth, and a new sense of conviction has begun to shine through from the student body.
 
 I have spoken on this many times, but I want to say it again. Stevenson School is a private institution and has no **_legal obligation_** to provide students with any degree of freedom of speech. However, as an American school, Stevenson has a **_moral obligation_** to educate the next generation of democratic voters, and it is simply against its basic principle of "inclusion" to censor campus discussions on basic topics: assemblies, LC backdoor, DEI changes.
 
@@ -42,7 +42,7 @@ The fight is not over. The shutting down of assembly speakers, the metastasis of
 
 ## Farewell
 
-As approach speech day, and as I wrap up my last statements as a JZ25 presidential candidate, returning back to my status as a normal Stevenson student, I want to acknowledge that I have still faced a fair amount of traction while running the JZ25 campaign. I have had my posters ripped off many times, I have been insulted personally by faculty members, I have been insulted personally by my peers, but I have also gained an unexpectedly significant amount of support in my quest for bettering the campus.
+As I wrap up my last statements as a JZ25 presidential candidate, returning back to my status as a normal Stevenson student, I want to acknowledge that I have still faced a fair amount of traction while running the JZ25 campaign. I have had my posters ripped off many times, I have been insulted personally by faculty members, I have been insulted personally by my peers, but I have also gained an unexpectedly significant amount of support in my quest for bettering the campus.
 
 Thank you for your support, I hope you had as much fun as I have.
 
