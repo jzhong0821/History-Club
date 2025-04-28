@@ -8,7 +8,7 @@ draft: false
 tags:
   - _opinion
   - jz25
-  - not-satire
+  - satire
 ogImage: https://i.ibb.co/8DvFbSHW/1.png
 siteOG: https://i.ibb.co/8DvFbSHW/1.png
 description: "#JZ25 is Sorry"
