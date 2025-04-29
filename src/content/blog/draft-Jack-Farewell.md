@@ -38,7 +38,9 @@ Community engagement in a school environment does not come from being part of St
 
 ## Moving forward
 
-The danger of Stevenson’s transformation is that students may become bored of talking just as the school opens its ears. The fight is not over, but We should also recognize the opportunity: the school is listening. There an active attempt from the administration to take in active student feedback, and these moments of openness are rare. Moments like this must be met with clarity, courage, and seriousness of purpose.
+The danger of Stevenson’s transformation is that students may become bored of talking just as the school opens its ears. The fight is not over, but we should also recognize the opportunity: the school is listening.
+
+There an active attempt from the administration to take in active student feedback, and these moments of openness are rare. Moments like this must be met with clarity, courage, and seriousness of purpose.
 
 ## Farewell
 
