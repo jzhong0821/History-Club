@@ -24,7 +24,7 @@ description: "Farewell, #JZ25"
 
 No matter the result, I am glad to say that, at the very least, **I have had a lot of fun with JZ25.**
 
-The JZ25 campaign was by its nature a call for freedom of expression, that when it comes to normal campus affairs, students should be allowed to publicly discuss and disagree with school officials in accordance with the RLS core values. As we start to enter early summer, campus has been enveloped in warmth, and a new sense of conviction has begun to shine through from the student body.
+The JZ25 campaign was by its nature a call for freedom of expression, that when it comes to normal campus affairs, students should be allowed to publicly discuss and disagree with school policies. As we start to enter early summer, campus has been enveloped in warmth, and a new sense of conviction has begun to shine through from the student body.
 
 I have spoken on this many times, but I want to say it again. Stevenson School is a private institution and has no **_legal obligation_** to provide students with any degree of freedom of speech. However, as an American school, Stevenson has a **_moral obligation_** to educate the next generation of democratic voters.
 
