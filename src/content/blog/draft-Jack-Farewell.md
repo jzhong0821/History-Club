@@ -30,7 +30,7 @@ I have spoken on this many times, but I want to say it again. Stevenson School i
 
 ## We have had a history
 
-We have had a history of underrepresented public dialogue. This is a truth. I assume no harmful intentions from the school's end, but students with contrarian ideals have felt oppressed in the past, and this needs to be addressed.
+We have had a history of underrepresented public dialogue. This is a truth. I assume no harmful intentions from the school's end, but students with contrarian ideals have felt their voices oppressed in the past, and this needs to be addressed.
 
 Stevenson should be a place where debate is celebrated, where public disagreement is allowed. I believe that my campaign has had an overall positive effect by giving students the courage to speak up. When a topic truly matters to you, you should be brave enough to speak about it.
 
