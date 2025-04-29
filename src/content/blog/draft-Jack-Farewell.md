@@ -3,8 +3,8 @@ author: Jack Zhong
 pubDatetime: 2025-4-26T13:55:00Z
 title: "It’s morning at Stevenson."
 postSlug: farewell-jz25
-featured: false
-draft: true
+featured: true
+draft: false
 tags:
   - _opinion
   - jz25
@@ -22,13 +22,13 @@ description: "Farewell, #JZ25"
 
 ## It’s morning at Stevenson.
 
-As we approach speech day, I am glad to say that, at the very least, **I have had a lot of fun.** The JZ25 campaign was by its nature a call for freedom of expression, that when it comes to normal campus affairs, students should be allowed to publicly discuss and disagree with school officials in accordance with the RLS core values. As we start to enter early summer, campus has been enveloped in warmth, and a new sense of conviction has begun to shine through from the student body.
+As wrap up the election process, I am glad to say that, at the very least, **I have had a lot of fun.** The JZ25 campaign was by its nature a call for freedom of expression, that when it comes to normal campus affairs, students should be allowed to publicly discuss and disagree with school officials in accordance with the RLS core values. As we start to enter early summer, campus has been enveloped in warmth, and a new sense of conviction has begun to shine through from the student body.
 
 I have spoken on this many times, but I want to say it again. Stevenson School is a private institution and has no **_legal obligation_** to provide students with any degree of freedom of speech. However, as an American school, Stevenson has a **_moral obligation_** to educate the next generation of democratic voters, and it is simply against its basic principle of "inclusion" to censor campus discussions on basic topics: assemblies, LC backdoor, DEI changes.
 
 ## We have had a history
 
-We have had a history of silencing public dialogue. This is a truth, and I still find it baffling how, while trying to promote knowledge on civic engagement during symposiums, we have witnessed the active suppression of student activism on the most trivial of campus affairs.
+We have had a history of silencing public dialogue. This is a truth. I assume no harmful intentions from the school's end, but students with contrarian ideals have felt oppressed in the past.
 
 Stevenson should be a place where debate is celebrated, where public disagreement is allowed, not where every public conversation leads to a private conversation with the Student Life Office, and that private conversation turns into an informal interrogation session. I believe that my campaign has had an overall positive effect by giving students the courage to speak up. When a topic truly matters to you, you should be brave enough to speak about it.
 
@@ -36,7 +36,7 @@ Community engagement in a school environment does not come from being part of St
 
 ## The great danger of Stevenson’s transformation
 
-The great danger of Stevenson’s transformation is that students may become bored of talking just as the school opens its ears.
+The danger of Stevenson’s transformation is that students may become bored of talking just as the school opens its ears.
 
 The fight is not over. The shutting down of assembly speakers, the metastasis of administrative bloat, and ideological bias in the school community are living realities, not distant memories. Stevenson students must remain vigilant, continuing to call out these pathologies and push for genuine reform. Yet even as we criticize, we should also recognize the opportunity: the school is listening. These moments of openness are rare, and it must be met with clarity, courage, and seriousness of purpose.
 
