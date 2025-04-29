@@ -44,6 +44,6 @@ There an active attempt from the administration to take in active student feedba
 
 ## Farewell
 
-As I wrap up my last statements as a JZ25 presidential candidate, returning back to my status as a normal Stevenson student, I want to thank all the support I have had through the running process. To all my followers on Instagram, and you all who cheered during my speech, I hope you had as much fun as I have.
+As I wrap up my last statements as a JZ25 presidential candidate, returning back to my status as a Stevenson student, I want to thank all the support I have had through the running process. To all my followers on Instagram, and you all who cheered during my speech, I hope you had as much fun as I have.
 
 **_It’s morning at Stevenson._**
