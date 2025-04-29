@@ -10,7 +10,7 @@ tags:
   - jz25
   - satire
 ogImage: https://media.tenor.com/G0OBtQPRa40AAAAM/cat-funny-looking-camera-cat-smurf.gif
-siteOG: https://i.ibb.co/8DvFbSHW/1.png
+siteOG: https://media.tenor.com/G0OBtQPRa40AAAAM/cat-funny-looking-camera-cat-smurf.gif
 description: "#JZ25 is Sorry"
 ---
 
