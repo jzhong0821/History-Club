@@ -36,7 +36,7 @@ Stevenson should be a place where debate is celebrated, where public disagreemen
 
 Community engagement in a school environment does not come from being part of StuCo, DEI, or RAC. Non-official-organization members still have a **right and responsibility** to speak out for their truth. I have witnessed large amounts of criticism that Stevenson lacks proper and passionate school spirit, but school spirit comes from genuine pride and expression; it is simply impossible to have real school spirit without the students who are willing to speak freely about basic campus affairs.
 
-## The great danger of Stevenson’s transformation
+## Moving forward
 
 The danger of Stevenson’s transformation is that students may become bored of talking just as the school opens its ears. The fight is not over, but We should also recognize the opportunity: the school is listening. There an active attempt from the administration to take in active student feedback, and these moments of openness are rare. Moments like this must be met with clarity, courage, and seriousness of purpose.
 
