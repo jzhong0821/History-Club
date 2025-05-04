@@ -3,7 +3,7 @@ author: Jack Zhong
 pubDatetime: 2025-4-29T13:00:00Z
 title: "It’s morning at Stevenson."
 postSlug: farewell-jz25
-featured: false
+featured: true
 draft: false
 tags:
   - _opinion
