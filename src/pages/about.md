@@ -5,7 +5,7 @@ title: "About"
 
 The Pirate Journal is a student-led publication founded and operated by the [RLS History Club](#rls-history-club).
 
-We feature student-written nonfiction essays, and are constantly open for [submissions](#subscriptions--submissions)! It’s our mission to create an open platform for students at Stevenson with a love for writing to share their opinions.
+We feature student-written nonfiction essays, and are constantly open for [submissions](#subscriptions--submissions)! It’s our mission to create an open platform for students with a love for writing to share their opinions.
 
 All essays published to The Pirate Journal will be displayed on this website, [RlsHistory.Club](/).
 
@@ -17,7 +17,7 @@ In the Fall of 2023, the RLS History Club was founded by Nick Baker & Jack Zhong
 
 Currently, the club has over 40 active members. We hold meetings every 2 cycles for our various aforementioned activities.
 
-If you would like to join the History Club, please [Contact Us](#contact-us) directly via email. We would love any member of Stevenson’s student body to join us!
+If you would like to join the History Club, please [Contact Us](#contact-us) directly via email. We would love any member to join us!
 
 ## Subscriptions & Submissions
 

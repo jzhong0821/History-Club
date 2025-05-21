@@ -3,8 +3,8 @@ author: Jack Zhong
 pubDatetime: 2025-5-03T22:49:00Z
 title: '"It''s my duty": China''s Lost Chance for Democracy'
 postSlug: june-fourth
-featured: true
-draft: false
+featured: false
+draft: true
 tags:
   - _historical-analysis
   - china
